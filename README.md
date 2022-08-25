@@ -1,37 +1,3 @@
-ProfileMe.dev
-
-New feature:Changelog added
-
-Introduction
-Skills
-Socials
-Badges
-Support
-
-    Go home
-
-© 2022 Dan Cranney
-Follow me
-|
-Buy Me a Coffee
-Introduction
-
-Introduce yourself. Tell visitors about you and who you are.
-👋Hi! My name is:
-Waving Hand Animation?
-💡Subtitle:
-✏️Long Description:
-About me
-🌍I'm based in:
-🖥️See my portfolio:
-http://
-✉️Contact me at:
-🚀I'm currently working on:
-http://
-🧠I'm currently learning:
-🤝I'm open to collaborating on:
-⚡Anything else:
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Callum
 ==============================================================================================================================
 
